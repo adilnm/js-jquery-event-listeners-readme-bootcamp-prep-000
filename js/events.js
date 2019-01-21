@@ -17,7 +17,7 @@ function submitIt()
 {
   $("form").on("submit", function()
   {
-    alert(``)
+    alert(`your form is going to be submitted now`)
   }
   )
 }
