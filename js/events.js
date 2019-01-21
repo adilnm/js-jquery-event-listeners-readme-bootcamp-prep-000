@@ -15,7 +15,11 @@ function getIt()
 
 function submitIt()
 {
-  
+  $("form").on("submit", function()
+  {
+    alert(``)
+  }
+  )
 }
 
 
